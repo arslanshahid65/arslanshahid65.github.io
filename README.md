@@ -2,7 +2,13 @@
 Hey! I am Arslan Shahid a graduate student with passion for bridging research and engineering to build reliable AI/ML systems.
 
 # Education
-Artificial Intelligence for smart Sensor/Actuator Systems, MEng
+Artificial Intelligence for smart Sensor/Actuator Systems, Master of Engineering
+
+_Deggendorf Institute of Technology, Germany_
+
+Electrical Engineering, B.Eng
+
+_National University of Sciences and Technology, Pakistan_
 
 # Work Experience
 Student Research Assistant @ Fraunhofer IIS 
