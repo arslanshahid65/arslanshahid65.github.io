@@ -2,7 +2,7 @@
   <img src="/assets/imgs/CV_Image2.png" alt="Profile Image" align="right" width="140" height= "140" style="border-radius: 50%;">
 </div>
 
-# AI Research Engineer
+# About me
 Hey! I am Arslan Shahid a graduate student with passion for bridging research and engineering to build reliable AI/ML systems.
 
 # Education
