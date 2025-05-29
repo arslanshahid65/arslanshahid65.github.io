@@ -1,4 +1,4 @@
-![Profile Image](/assets/imgs/CV_Image2.png)
+<img src="/assets/imgs/CV_Image2.png" alt="Profile Image" align="right" width="200">
 
 # AI Research Engineer
 Hey! I am Arslan Shahid a graduate student with passion for bridging research and engineering to build reliable AI/ML systems.
