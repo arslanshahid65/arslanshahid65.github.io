@@ -1,4 +1,4 @@
-<div style="position: absolute; top: 25px; right: 25px;">
+<div style="position: absolute; top: 25px; right: 15px;">
   <img src="/assets/imgs/CV_Image2.png" alt="Profile Image" align="right" width="150" style="border-radius: 50%;">
 </div>
 
