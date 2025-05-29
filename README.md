@@ -1,5 +1,5 @@
 <div style="position: absolute; top: 20px; right: 160px;">
-  <img src="/assets/imgs/CV_Image2.png" alt="Profile Image" align="right" width="130" height= "130" style="border-radius: 50%;">
+  <img src="/assets/imgs/CV_Image2.png" alt="Profile Image" align="right" width="140" height= "140" style="border-radius: 50%;">
 </div>
 
 # AI Research Engineer
