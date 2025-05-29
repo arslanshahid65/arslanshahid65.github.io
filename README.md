@@ -1,3 +1,5 @@
+![Profile Image](/assets/imgs/CV_Image2.jpg)
+
 # AI Research Engineer
 Hey! I am Arslan Shahid a graduate student with passion for bridging research and engineering to build reliable AI/ML systems.
 
