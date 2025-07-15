@@ -10,7 +10,7 @@ Hey! I am Arslan a graduate student with passion for bridging research and engin
 
 _Deggendorf Institute of Technology, Germany_
 
-**Electrical Engineering, B.Eng**
+**Electrical Engineering, Bachelor of Engineering**
 
 _National University of Sciences and Technology, Pakistan_
 
