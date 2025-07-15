@@ -15,10 +15,16 @@ _Deggendorf Institute of Technology, Germany_
 _National University of Sciences and Technology, Pakistan_
 
 # Work Experience
-Student Research Assistant @ Fraunhofer IIS 
-- Deep Learning research for image and video compression.
-- Developing cutting edge neural network components for NCVC.
-- Software Development for JPEG XS.
+Student Research Assistant @ Fraunhofer IIS Erlangen, Germany 
+- Extensive research and development in machine learning based signal processing for image/video compression.
+- Developing and testing neural network modules for in-house deep learning based video codec implementation.
+- Integration of new training and evaluation modules into in-house codec implementation.
+- Software Development for JPEG XS library.
 
+Student Assistant (Programming Support) @ Deggendorf Institute of Technology Campus Cham, Germany
+- Software development for IOT projects.
+- Developed data piplines for remote sensing devices and on-premise database.
+- Worked on timeseries data ingestion and hyperspectral imaging data acqusition.
+  
 # Projects
 
