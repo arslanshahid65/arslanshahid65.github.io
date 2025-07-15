@@ -24,7 +24,7 @@ Student Research Assistant @ Fraunhofer IIS Erlangen, Germany
 Student Assistant (Programming Support) @ Deggendorf Institute of Technology Campus Cham, Germany
 - Software development for IOT projects.
 - Developed data piplines for remote sensing devices and on-premise database.
-- Worked on timeseries data ingestion and hyperspectral imaging data acqusition.
+- Worked on timeseries data ingestion and hyperspectral imaging data acquisition.
   
 # Projects
 
